@@ -7,7 +7,7 @@ title:            Data Carpentry
 tagline:          Making data science more efficient
 url:              http://datacarpentry.org
 paginate:         1
-baseurl:          /blog
+baseurl:          /
 author:
   name:           Data Carpentry contributors
   url:            https://twitter.com/datacarpentry
