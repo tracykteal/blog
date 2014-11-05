@@ -3,7 +3,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Data Carpentry
+title:            Blog
 tagline:          Making data science more efficient
 url:              https://datacarpentry.github.io
 paginate:         1
