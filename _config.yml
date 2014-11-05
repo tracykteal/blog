@@ -5,12 +5,12 @@ relative_permalinks: true
 # Setup
 title:            Data Carpentry
 tagline:          Making data science more efficient
-url:              http://datacarpentry.org
+url:              https://datacarpentry.github.io
 paginate:         1
 baseurl:          blog
 author:
   name:           Data Carpentry contributors
-  url:            https://twitter.com/datacarpentry
+  url:            http://datacarpentry.org
   email:          admin@datacarpentry.org
 
 # Custom vars
