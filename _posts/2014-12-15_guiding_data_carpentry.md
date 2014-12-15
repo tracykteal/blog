@@ -1,3 +1,8 @@
+---
+layout: post
+title: Data Carpentry Blog
+---
+
 ## Guiding Data Carpentry
 
 We've been excited to see the enthusiasm of the community for
@@ -13,7 +18,7 @@ will do in the short term, how it will grow and integrate with the community, an
 to continue to develop and establish a sustainable path going forward.
 
 First, we must give a big thanks to Katy Tackett at [Launch Pad](http://lp.co/nola) in New Orleans for letting us use their
-meeting space! (We wish we could work there all the time.) Also travel support from an NSF Supplemental grant to SESYNC was invaluable in making this meeting possible.
+meeting space! (We wish we could work there all the time.) Also travel support from [SESYNC](http://www.sesync.org) ([NSF](http://www.nsf.gov) DBI-1052875) was invaluable in making this meeting possible.
 
 The decisions made during this meeting are listed below. Many of these decisions still require more
 details on how they will be implemented, and those details are coming soon as
@@ -21,7 +26,7 @@ we continue to develop our infrastructure and guidelines, so please continue to 
 have them on our [discuss list](http://lists.idyll.org/listinfo/dc-discuss) or via [Twitter](https://twitter.com/datacarpentry) or [contact us](mailto:admin@datacarpentry.org).
 
 ### Data Carpentry Board Meeting ###
-#### 14 November 2015 ####
+#### 15 November 2014 ####
 
 **All members were present**
 * Karen Cranston (National Evolutionary Synthesis Center)
@@ -105,6 +110,6 @@ within one week of meetings.
 *We have a backlog from previous meetings, but future meetings will comply with
 this decision.*
 
-**Decision:** The board will sign a Fiscal Sponsorship Agreement (FSA)
+**Decision:** The board will pursue signing a Fiscal Sponsorship Agreement (FSA)
  with NumFOCUS, and the
 signatories will be Tracy Teal, Ethan White, and Hilmar Lapp
