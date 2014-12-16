@@ -26,9 +26,9 @@ we continue to develop our infrastructure and guidelines, so please continue to 
 have them on our [discuss list](http://lists.idyll.org/listinfo/dc-discuss) or via [Twitter](https://twitter.com/datacarpentry) or [contact us](mailto:admin@datacarpentry.org).
 
 ### Data Carpentry Board Meeting 
-#### 15 November 2014 
+**15 November 2014**
 
-**All members were present**
+**All members were present**  
 * Karen Cranston (National Evolutionary Synthesis Center)  
 * Hilmar Lapp (National Evolutionary Synthesis Center / Duke University)  
 * Aleksandra Pawlik (The Software Sustainability Institute, University of Manchester)  
