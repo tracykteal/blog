@@ -25,15 +25,15 @@ details on how they will be implemented, and those details are coming soon as
 we continue to develop our infrastructure and guidelines, so please continue to stay tuned, ask questions if you
 have them on our [discuss list](http://lists.idyll.org/listinfo/dc-discuss) or via [Twitter](https://twitter.com/datacarpentry) or [contact us](mailto:admin@datacarpentry.org).
 
-### Data Carpentry Board Meeting ###
-#### 15 November 2014 ####
+### Data Carpentry Board Meeting 
+#### 15 November 2014 
 
 **All members were present**
-* Karen Cranston (National Evolutionary Synthesis Center)
-* Hilmar Lapp (National Evolutionary Synthesis Center / Duke University)
+* Karen Cranston (National Evolutionary Synthesis Center)  
+* Hilmar Lapp (National Evolutionary Synthesis Center / Duke University)  
 * Aleksandra Pawlik (The Software Sustainability Institute, University of Manchester)  
 * Karthik Ram (UC Berkeley, rOpenSci)  
-* Tracy Teal (Data Carpentry / BEACON)
+* Tracy Teal (Data Carpentry / BEACON)  
 * Ethan White (Utah State Univ/Univ of Florida)  
 * Greg Wilson (Software Carpentry Foundation)  
 
