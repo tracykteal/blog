@@ -13,6 +13,13 @@ assessment for these lessons as well as an assessment framework for all Data Car
 Dates: March 23-25, 2015  
 Location: Cold Spring Harbor Labs, NY
 
+**Goal**: Develop materials and assessment for a two day Data Carpentry workshop focusing on the skills needed to work with genomic data
+
+[Call for Participation](http://goo.gl/iLvaP0)
+
+[Application for Participation](http://goo.gl/dqmkwI)  deadline: January 30, 2015
+
+
 We would love to have the participation of people working in genomics or bioinformatics, those involved in
 training in this domain, those working in assessment, or any others who are interested in helping to shape the curriculum.
 We aim to assemble a diverse and interdisciplinary group of scientists, educators, and developers, encompassing various
@@ -25,17 +32,9 @@ If you are wondering if you should apply to participate in this hackathon or hav
 <admin@datacarpentry.org>
 
 
-### Data Carpentry Genomics Workshop Hackathon: Curriculum & Assessment Development
+####
 
-Goal: Develop materials and assessment for a two day Data Carpentry workshop focusing on the skills needed to work with genomic data
-
-[Call for Participation](http://goo.gl/iLvaP0)
-
-[Application for Participation](http://goo.gl/dqmkwI)
-
-#####
-
-### Organizing Committee
+#### Organizing Committee
 - Hilmar Lapp, Duke University
 - Mary Shelley, SESYNC
 - Mike Smorul, SESYNC
