@@ -22,7 +22,7 @@ If you are wondering if you should apply to participate in this hackathon or hav
 <admin@datacarpentry.org>
 
 
-### Data Carpentry Genomics Workshop Hackathon: Curriculum & Assessment Development
+### Data Carpentry Genomics Workshop Hackathon: Curriculum & Assessment Development 
 
 Goal: Develop materials and assessment for a two day Data Carpentry workshop focusing on the skills needed to work with genomic data
 
